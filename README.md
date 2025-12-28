@@ -16,8 +16,7 @@ This is a prototype for a Smart City Surveillance System aimed at improving:
 - **Language:** Python 3.x
 - **Libraries:** OpenCV (`cv2`), NumPy
 - Cloud Backend: Firebase Realtime Database (via REST API)
-
-Networking: requests library for cloud synchronization
+- Networking: requests library for cloud synchronization
 
 🚀 How to Run
 
