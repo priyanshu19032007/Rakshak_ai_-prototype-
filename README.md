@@ -16,10 +16,28 @@ This is a prototype for a Smart City Surveillance System aimed at improving:
 - **Language:** Python 3.x
 - **Libraries:** OpenCV (`cv2`), NumPy
 
-## 🚀 How to Run
-1. Install Python.
-2. Install libraries: `pip install opencv-python numpy`
-3. Run the script: `python security_demo.py`
+🚀 How to Run
 
----
-*Developed for 1st Semester Engineering Project.*
+    Install Python.
+
+    Install required libraries:
+    Bash
+
+pip install opencv-python numpy requests
+
+Configure Database: Ensure your Firebase URL is correctly set in the script.
+
+Run the script:
+Bash
+
+    python try.py
+
+📊 Live Monitoring Dashboard
+
+The system generates a unique log for every event. Authorities can view these logs in real-time on the Firebase console, featuring:
+
+    Timestamp of the event.
+
+    Event Type (Weapon, Fire, or Motion).
+
+    Status Message and Device Location.
