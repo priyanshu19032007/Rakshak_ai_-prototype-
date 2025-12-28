@@ -1,4 +1,4 @@
-# Rakshak.ai_prototype
+# Rakshak_ai_prototype
 "A Computer Vision based prototype for Crime and Fire detection using Python."
 # Smart City Surveillance System 🚓🔥
 
